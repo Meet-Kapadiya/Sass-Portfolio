@@ -1,2 +1,2 @@
 # Sass-Portfolio
-Basic portfolio design.
+Simple portfolio design ... !
